@@ -1,0 +1,1350 @@
+{
+  "name": "Молочные продукты и яйца",
+  "code": 698,
+  "products": [
+    {
+      "id": 529,
+      "name": "САРАФ.Йогурт термостат.дет.1,5% 125г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3638992.jpg",
+      "plu": 3638992,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 17.99,
+        "price_promo__min": 12.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 535,
+      "name": "ИМУНЕЛЕ Нап.КЛУБ.МОР.к/м с сок.1,5% 100г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3662341.jpg",
+      "plu": 3662341,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 24.99,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 583,
+      "name": "БЗМЖ Напиток \"Имунеле\", кисломол.с соком и пюре со вкус.клубника-княжен.обог.пробит. микроорган.и витаминами, 1,2% 0,95 мл 100г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4054537.jpg",
+      "plu": 4054537,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 24.99,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 585,
+      "name": "БЗМЖ Напиток \"Имунеле\",кисломол.фруктов.со вкусом груша-барбарис,обог.пробит. микроорган.и витаминами, для пит.дет.1,5% 0,95 мл 100г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4054540.jpg",
+      "plu": 4054540,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 24.99,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8080,
+      "name": "РАЭ Десерт твор.гл.с ван.в в/рож.15% 60г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3636506.jpg",
+      "plu": 3636506,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 21.99,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8081,
+      "name": "РАЭ Десерт твор.гл.ван/сгущ.в/рож15% 60г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3636507.jpg",
+      "plu": 3636507,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 21.99,
+        "price_promo__min": 19.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 518,
+      "name": "АКТИВ.Биойогурт черн./зл/с.льна2,9%150г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3483915.jpg",
+      "plu": 3483915,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 28.35,
+        "price_promo__min": 26.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27747,
+      "name": "БЗМЖ Коктейль молочный стерилизованный с какао со вкусом \"Шоколадный трюфель\",\"Чудо Десерт\" мдж 3,0%, 216г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4000196.jpg",
+      "plu": 4000196,
+      "promo": {
+        "id": 1171081033,
+        "date_begin": "2021-04-08",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 37.99,
+        "price_promo__min": 31.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27748,
+      "name": "БЗМЖ Коктейль молочный стерилизованный со вкусом \"Крем-брюле с пеканом \",\"Чудо Десерт\" .мдж 3,0%, 216г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4000197.jpg",
+      "plu": 4000197,
+      "promo": {
+        "id": 1171081033,
+        "date_begin": "2021-04-08",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 37.99,
+        "price_promo__min": 31.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 523,
+      "name": "Йогурт \"Греческий\"массовой долей жира 2,0% с фруктовым наполнителем \"черника\", 140 гр.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3601418.jpg",
+      "plu": 3601418,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 34.9,
+        "price_promo__min": 32.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 524,
+      "name": "Йогурт \"Греческий\"массовой долей жира 2,0% с фруктовым наполнителем \"вишня\", 140 гр.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3601419.jpg",
+      "plu": 3601419,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 34.9,
+        "price_promo__min": 32.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 580,
+      "name": "БЗМЖ Активиа Биойогурт, обогащенный бифидобактериями ActiRegularis®, с клубникой, яблоком и питахайей, 150г 2,9%",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4045357.jpg",
+      "plu": 4045357,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 41.99,
+        "price_promo__min": 32.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 592,
+      "name": "БЗМЖ Биойогурт обог. с Чернослив-финик-сем.льна 2,9% 150г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4087593.jpg",
+      "plu": 4087593,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 44.99,
+        "price_promo__min": 32.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 593,
+      "name": "БЗМЖ Б/йог.обог.с Вишн-яблоком-малиной 2,9% 150г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4087602.jpg",
+      "plu": 4087602,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 44.99,
+        "price_promo__min": 32.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 471,
+      "name": "Б.Ю.АЛЕКС.Сырок КАРТ.в м/шок.20%50г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3378597.jpg",
+      "plu": 3378597,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 35.55,
+        "price_promo__min": 34.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 483,
+      "name": "Сырок Б.Ю.Александров, глазированный, ванильный, в молочном шоколаде, 5%, 50 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3410456.jpg",
+      "plu": 3410456,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 35.55,
+        "price_promo__min": 34.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 521,
+      "name": "Сырок Б.Ю.Александров, в белом шоколаде, 26%, 50 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3601367.jpg",
+      "plu": 3601367,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 39.99,
+        "price_promo__min": 34.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 561,
+      "name": "Пирожное бисквитное \"KINDER PINGUI ВИШНЯ\", покрытое тёмным шоколадом, с молочно-вишнёвой начинкой, 30г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3979919.jpg",
+      "plu": 3979919,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 44.49,
+        "price_promo__min": 36.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 566,
+      "name": "БЗМЖ Биойогурт, обогащенный бифидобактериями AсtiRegularis, со злаками АКТИВИЯ, 2,2% 260г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4035471.jpg",
+      "plu": 4035471,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 49.99,
+        "price_promo__min": 36.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 567,
+      "name": "БЗМЖ Биойогурт, обогащенный бифидобактериями AсtiRegularis, с дыней, клубникой и земляникой Активиа 2,0% 260г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4035472.jpg",
+      "plu": 4035472,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 49.99,
+        "price_promo__min": 36.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 568,
+      "name": "БЗМЖ Биойогурт, обогащенный бифидобактериями AсtiRegularis, с клубникой и земляникой Активиа 2,0% 260г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4035473.jpg",
+      "plu": 4035473,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 49.99,
+        "price_promo__min": 36.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 569,
+      "name": "БЗМЖ Биойогурт, обогащенный бифидобактериями AсtiRegularis,Активиа 2,4% 260г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4035474.jpg",
+      "plu": 4035474,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 49.99,
+        "price_promo__min": 36.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 570,
+      "name": "БЗМЖ Биойогурт, обогащенный бифидобактериями AсtiRegularis, с черносливом Активиа 2,0% 260г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4035476.jpg",
+      "plu": 4035476,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 49.99,
+        "price_promo__min": 36.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 571,
+      "name": "БЗМЖ Биойогурт, обогащенный бифидобактериями AсtiRegularis, с манго и яблоком Активиа 2,0% 260г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4035562.jpg",
+      "plu": 4035562,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 49.99,
+        "price_promo__min": 36.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 572,
+      "name": "БЗМЖ Биойогурт, обогащенный бифидобактериями AсtiRegularis, с черникой, злаками и льняными семенами Активиа 2,1% 260г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4035564.jpg",
+      "plu": 4035564,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 49.99,
+        "price_promo__min": 36.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 575,
+      "name": "БЗМЖ Активиа Биойогурт, обогащенный бифидобактериями ActiRegularis, с яблоком и персиком, 2,0% 260г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4038830.jpg",
+      "plu": 4038830,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 57.99,
+        "price_promo__min": 36.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 576,
+      "name": "БЗМЖ Активиа Биойогурт, обогащенный бифидобактериями AсtiRegularis, с яблоком, клубникой и черникой, 2,0% 260г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4038831.jpg",
+      "plu": 4038831,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 57.99,
+        "price_promo__min": 36.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8030,
+      "name": "Сырок Суфле Б.Ю.Александров, глазированный, 15%, 40 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3472523.jpg",
+      "plu": 3472523,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 37.49,
+        "price_promo__min": 36.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8124,
+      "name": "ХАЛАЛМИЛК Напиток к/м ТАН ХАЛЯЛЬ 1% 0,5л",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3677707.jpg",
+      "plu": 3677707,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 44.99,
+        "price_promo__min": 39.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 7990,
+      "name": "ВЕЛЛЕ Продукт ОВСЯНКА ч/слив ферм.180г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3427232.jpg",
+      "plu": 3427232,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 44.99,
+        "price_promo__min": 41.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8074,
+      "name": "Продукт овсяный ферментированный \"Велле\" \"Курага\" \"Овсянка\", 180 грамм",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3631318.jpg",
+      "plu": 3631318,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 44.99,
+        "price_promo__min": 41.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 7968,
+      "name": "САВ.ПР.Творог 101 ЗЕРНО+СЛ.5% черн.130г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3377514.jpg",
+      "plu": 3377514,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 49.9,
+        "price_promo__min": 45.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 7970,
+      "name": "САВ.ПР.Творог 101 ЗЕРНО+СЛ.клубн.5% 130г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3379385.jpg",
+      "plu": 3379385,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 49.9,
+        "price_promo__min": 45.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8224,
+      "name": "БЗМЖ Даниссимо Коктейль кисломолочный йогуртный с наполнителем «Спелое манго и бельгийский белый шоколад», 190г 2,7%",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4045556.jpg",
+      "plu": 4045556,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 56.99,
+        "price_promo__min": 50.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8198,
+      "name": "БЗМЖ Данон Творог зерненый в йогурте, с массовой долей жира 5,0% и фруктовый наполнитель \"Персик - манго\" 150г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4001847.jpg",
+      "plu": 4001847,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 69.99,
+        "price_promo__min": 51.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8199,
+      "name": "БЗМЖ Данон Творог зерненый в йогурте, с массовой долей жира 5,0% и фруктовый наполнитель \"Клубника - земляника\" 150г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4001848.jpg",
+      "plu": 4001848,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 69.99,
+        "price_promo__min": 51.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 515,
+      "name": "GR.DESSERT Пудинг ДВ.ОРЕХ мол.4,9% 200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3483430.jpg",
+      "plu": 3483430,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 57.9,
+        "price_promo__min": 54.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 544,
+      "name": "Йогурт Epica Crispy, карамель, 10,2%, 140 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3677341.jpg",
+      "plu": 3677341,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 59.99,
+        "price_promo__min": 54.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 545,
+      "name": "EPICA Йогурт CRISPY с фисташ.10,5% 140г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3677342.jpg",
+      "plu": 3677342,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 63.99,
+        "price_promo__min": 54.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 546,
+      "name": "Йогурт Epica Crispy,лимон, 8,6%, 140 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3677343.jpg",
+      "plu": 3677343,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 59.99,
+        "price_promo__min": 54.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8191,
+      "name": "Маргарин для выпечки Пышка, мдж. 72%, 250гр.",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3977160.jpg",
+      "plu": 3977160,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 59.99,
+        "price_promo__min": 55.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 7997,
+      "name": "ДАНОН Йогурт 3,3% 350г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3433156.jpg",
+      "plu": 3433156,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 64.99,
+        "price_promo__min": 57.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 537,
+      "name": "Сметана Домик в деревне, 15%, 300 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3665624.jpg",
+      "plu": 3665624,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 65.99,
+        "price_promo__min": 59.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 528,
+      "name": "Сметана Брест Литовск, 20%, 315 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3627505.jpg",
+      "plu": 3627505,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 74.99,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 551,
+      "name": "Сыр плавленый Виола Сливочный 130г мдж в с.в.45%",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3908610.jpg",
+      "plu": 3908610,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 81.19,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 552,
+      "name": "Сыр плавленый \"Виола\" ассорти \"Финское избранное\": \"Сливочный\", с колбасой \"Салями\", с грибами-лисичками, с лососем мдж 45% 130г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3908611.jpg",
+      "plu": 3908611,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 81.19,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 7964,
+      "name": "ВКУСНОТ.Йогурт 1,5%персик тетра-топ 750г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3363988.jpg",
+      "plu": 3363988,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 75.55,
+        "price_promo__min": 69.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 431,
+      "name": "HOCHL.Сыр пл.-тост С ВЕТ.ломт.45%150г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/24145.jpg",
+      "plu": 24145,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 76.3,
+        "price_promo__min": 74.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 547,
+      "name": "Сыр Виола 4 Сыра, Valio, 180 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3680079.jpg",
+      "plu": 3680079,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 119.99,
+        "price_promo__min": 84.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 582,
+      "name": "БЗМЖ Простоквашино Молоко цельное отборное питьевое пастеризованное, 1500мл, мдж от 3,4% до 4,5%",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4045460.jpg",
+      "plu": 4045460,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 99.99,
+        "price_promo__min": 87.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 550,
+      "name": "Сыр плавленый Фетакса 45% 200г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3906892.jpg",
+      "plu": 3906892,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 109.99,
+        "price_promo__min": 99.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 7969,
+      "name": "ЧУДО Кокт.КЛУБН.мол.ул/паст аром.2% 950г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3378996.jpg",
+      "plu": 3378996,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 114.99,
+        "price_promo__min": 101.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 499,
+      "name": "Сыр Маасдам, нарезка, Villaeurope, 45%, 150 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3448799.jpg",
+      "plu": 3448799,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 129.0,
+        "price_promo__min": 119.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 526,
+      "name": "Сыр Oltermanni, сливочный, Valio, 45%, 130 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3613643.jpg",
+      "plu": 3613643,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 149.99,
+        "price_promo__min": 129.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8048,
+      "name": "Сыр сливочный Легкий, Arla Natura, 30%, 150 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3504112.jpg",
+      "plu": 3504112,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 172.99,
+        "price_promo__min": 129.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 588,
+      "name": "БЗМЖ Сыр \"Топленое молочко\" 45% ТМ Радость вкуса (ламинат цв./узк., фас. 200г брусок, 10шт/к)",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4062968.jpg",
+      "plu": 4062968,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 156.99,
+        "price_promo__min": 139.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8158,
+      "name": "Сыр плавленый сливочный ТМ Экомилк с м.д.ж. 55%, 400г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3924969.jpg",
+      "plu": 3924969,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 179.99,
+        "price_promo__min": 139.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8244,
+      "name": "БЗМЖ Сыр \"Львиное сердце\" 45% ТМ Радость вкуса (ламинат цв./узк., фас. 200г брусок, 10шт/к)",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4062961.jpg",
+      "plu": 4062961,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 159.99,
+        "price_promo__min": 139.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 543,
+      "name": "Сыр классический, Брест Литовск, 200 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3672506.jpg",
+      "plu": 3672506,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 159.99,
+        "price_promo__min": 144.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 27739,
+      "name": "Кокосовое молоко переработанная мякоть кокосового ореха(жирность 17-19%) 400мл",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3495702.jpg",
+      "plu": 3495702,
+      "promo": {
+        "id": 1171081033,
+        "date_begin": "2021-04-08",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 149.99,
+        "price_promo__min": 144.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 520,
+      "name": "Сыр Легкий, Тысяча озер, 240 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3499152.jpg",
+      "plu": 3499152,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 189.0,
+        "price_promo__min": 159.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8153,
+      "name": "Сыр плавленый Фетакса 45% 400г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3906891.jpg",
+      "plu": 3906891,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 195.99,
+        "price_promo__min": 189.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8058,
+      "name": "ВКУСНОТ.Масло ТРАДИЦ.слив.82,5% 400г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3612680.jpg",
+      "plu": 3612680,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 299.0,
+        "price_promo__min": 279.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8170,
+      "name": "ТЫСЯЧА ОЗЁР Масло сливочное сладкосливочное несолёное м. д. ж. 82,5% 400 гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3953367.jpg",
+      "plu": 3953367,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 309.99,
+        "price_promo__min": 286.99
+      },
+      "store_name": null
+    }
+  ]
+}
