@@ -227,7 +227,5 @@ fabric.properties
 .idea/caches/build_file_checksums.ser
 
 
-# directory for lesson1 homework saved files with products by categories
-products_by_categories
 
 .idea/

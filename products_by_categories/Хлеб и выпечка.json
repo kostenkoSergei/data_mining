@@ -1,0 +1,216 @@
+{
+  "name": "Хлеб и выпечка",
+  "code": 888,
+  "products": [
+    {
+      "id": 31922,
+      "name": "Крекер \"С кунжутом и семенами льна\", 180г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3950922.jpg",
+      "plu": 3950922,
+      "promo": {
+        "id": 1170306661,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 14
+      },
+      "current_prices": {
+        "price_reg__min": 29.99,
+        "price_promo__min": 27.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 28326,
+      "name": "ДЫМКА Галеты КЛАССИЧЕСКИЕ 245г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3688960.jpg",
+      "plu": 3688960,
+      "promo": {
+        "id": 1171092812,
+        "date_begin": "2021-04-08",
+        "date_end": "2021-05-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 14
+      },
+      "current_prices": {
+        "price_reg__min": 69.99,
+        "price_promo__min": 34.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 587,
+      "name": "Хлебцы хрустящие цельнозерновые \"НУТ\" нутово-кукурузные, 40гр",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/4060067.jpg",
+      "plu": 4060067,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 58.19,
+        "price_promo__min": 37.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 8026,
+      "name": "7 DAYS Мини сух.B.ROL.с чесн/парм/тр.80г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3469320.jpg",
+      "plu": 3469320,
+      "promo": {
+        "id": 1170328688,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-04",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 13
+      },
+      "current_prices": {
+        "price_reg__min": 49.9,
+        "price_promo__min": 41.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 602,
+      "name": "Хлебцы Злаковый коктейль, Dr.Korner, 100 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3195740.jpg",
+      "plu": 3195740,
+      "promo": {
+        "id": 1173707272,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 61.19,
+        "price_promo__min": 44.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 31946,
+      "name": "Печенье затяжное «Goute» («Гутэ») 72г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3978913.jpg",
+      "plu": 3978913,
+      "promo": {
+        "id": 1170306661,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 14
+      },
+      "current_prices": {
+        "price_reg__min": 67.99,
+        "price_promo__min": 49.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 31917,
+      "name": "Крекер «TUC mini» со вкусом сыра 100г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3943973.jpg",
+      "plu": 3943973,
+      "promo": {
+        "id": 1170306661,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 14
+      },
+      "current_prices": {
+        "price_reg__min": 79.99,
+        "price_promo__min": 54.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 31918,
+      "name": "Крекер «TUC mini» со вкусом сметаны и лука 21x100г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3943974.jpg",
+      "plu": 3943974,
+      "promo": {
+        "id": 1170306661,
+        "date_begin": "2021-04-01",
+        "date_end": "2021-05-05",
+        "type": "",
+        "description": "",
+        "kind": "Z011",
+        "expired_at": 14
+      },
+      "current_prices": {
+        "price_reg__min": 74.99,
+        "price_promo__min": 54.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 603,
+      "name": "Хлеб Стройный рецепт, Fazer, 350 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3455248.jpg",
+      "plu": 3455248,
+      "promo": {
+        "id": 1173707273,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 67.19,
+        "price_promo__min": 57.99
+      },
+      "store_name": null
+    },
+    {
+      "id": 494,
+      "name": "Лепешки Mission Deli, пшеничные, со злаками; оригинальные, 250 г",
+      "mech": null,
+      "img_link": "https://media.5ka.ru/media/products/3439566.jpg",
+      "plu": 3439566,
+      "promo": {
+        "id": 1173707270,
+        "date_begin": "2021-04-20",
+        "date_end": "2021-04-26",
+        "type": "",
+        "description": "",
+        "kind": "Z001",
+        "expired_at": 5
+      },
+      "current_prices": {
+        "price_reg__min": 74.95,
+        "price_promo__min": 64.99
+      },
+      "store_name": null
+    }
+  ]
+}
