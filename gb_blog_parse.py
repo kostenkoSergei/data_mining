@@ -69,6 +69,8 @@ class GbBlogParse:
         author_page_link = \
             article_content.find(lambda tag: tag.name == "a" and 'users' in tag.attrs.get("href", '')).attrs[
                 'href']
+        commentable_id = soup.find("comments").attrs.get('commentable-id')
+        # print(commentable_id)
 
         data = {
             "url": url,
@@ -77,8 +79,22 @@ class GbBlogParse:
             "published": date_published_datetime_obj,
             "article_author": article_author.text,
             "author_page_link": urljoin("https://gb.ru/", author_page_link),
+            "comments": self.get_comments(commentable_id)
         }
         return data
+
+    def get_comments(self, commentable_id):
+        comments = []
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:88.0) Gecko/20100101 Firefox/88.0"
+        }
+        comments_url = f"https://gb.ru/api/v2/comments?commentable_type=Post&commentable_id={commentable_id}&order=desc"
+        response = self._get_response(comments_url, headers=headers)
+        data = response.json()
+        for el in data:
+            user_comment = {el["comment"]["user"]["full_name"]: el["comment"]["body"]}
+            comments.append(user_comment)
+        return comments
 
     def run(self):
         for task in self.tasks:
@@ -91,6 +107,6 @@ class GbBlogParse:
 
 
 if __name__ == "__main__":
-    collection = MongoClient()["gb_parse_23_04"]["gb_blog_v16"]
+    collection = MongoClient()["gb_parse_23_04"]["gb_blog_v5"]
     parser = GbBlogParse("https://gb.ru/posts", collection)
     parser.run()
