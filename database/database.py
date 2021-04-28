@@ -16,7 +16,7 @@ class Database:
         post = models.Post(**data["post_data"], author=models.Author(**data["author_data"]))
         for tag_el in data["tags_data"]:
             tag = models.Tag(**tag_el)
-            session.add(tag)
+            post.tags.append(tag)
 
         try:
             session.add(post)

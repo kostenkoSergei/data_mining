@@ -35,4 +35,4 @@ class Tag(Base, UrlMixin):
     __tablename__ = "tag"
     id = Column(Integer, primary_key=True, autoincrement=True)
     name = Column(String(150), nullable=False)
-    posts = relationship(Post, secondary=tag_post)
+    # posts = relationship(Post, secondary=tag_post, back_populates="tags")

@@ -95,7 +95,7 @@ class GbBlogParse:
 
 if __name__ == "__main__":
     # collection = MongoClient()["gb_parse_20_04"]["gb_blog"]
-    # db = Database("sqlite:///gb_blog.db")
-    db = Database("sqlite:///gb_blog_v2.db")
+    db = Database("sqlite:///gb_blog.db")
+    # db = Database("sqlite:///gb_blog_v2.db")
     parser = GbBlogParse("https://gb.ru/posts", db)
     parser.run()
