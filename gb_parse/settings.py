@@ -92,6 +92,3 @@ AUTOTHROTTLE_DEBUG = True
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
-#ROTATING_PROXY_LIST_PATH = (
-#    "/Users/nikolayzhukov/PycharmProjects/data_mining_basic/proxies"
-#)
