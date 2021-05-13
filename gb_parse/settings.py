@@ -7,7 +7,7 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'instagram_tags_parser'
+BOT_NAME = 'instagram_parser'
 LOG_ENABLE = True
 # LOG_LEVEL = 'DEBUG'
 LOG_LEVEL = 'INFO'

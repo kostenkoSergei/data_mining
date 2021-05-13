@@ -25,7 +25,7 @@ class GbParsePipeline:
 
 class GbInstagramImagePipeline(ImagesPipeline):
     def get_media_requests(self, item, info):
-        yield Request(item.get('picture_url', 'https://via.placeholder.com/150'))
+        yield Request(item.get('picture_url'))
 
     def item_completed(self, results, item, info):
         item['image_info'] = results[0][1]
