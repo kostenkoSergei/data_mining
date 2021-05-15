@@ -7,9 +7,9 @@ from ..items import InstagramTagItem, InstagramPostItem
 
 class InstagramSpider(scrapy.Spider):
     name = 'instagram'
-    login_url = 'https://www.instagram.com/accounts/login/ajax/'
     allowed_domains = ['www.instagram.com']
     start_urls = ['https://www.instagram.com/']
+    login_url = 'https://www.instagram.com/accounts/login/ajax/'
     query_hash = {
         'tag_paginate': '9b498c08113f1e09617a1703c22b2f32'
     }
