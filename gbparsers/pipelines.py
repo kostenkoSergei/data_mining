@@ -6,27 +6,16 @@
 
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
-from scrapy import Request
-from scrapy.pipelines.images import ImagesPipeline
 from pymongo import MongoClient
 from .settings import BOT_NAME
 
 
-class GbParsePipeline:
+class GbparsersPipeline:
     def __init__(self):
         client = MongoClient()
         self.db = client[BOT_NAME]
 
     def process_item(self, item, spider):
-        collection = self.db[spider.name]
+        collection = self.db[type(item).__name__]
         collection.insert_one(item)
-        return item
-
-
-class GbInstagramImagePipeline(ImagesPipeline):
-    def get_media_requests(self, item, info):
-        yield Request(item.get('picture_url'))
-
-    def item_completed(self, results, item, info):
-        item['image_info'] = results[0][1]
         return item
