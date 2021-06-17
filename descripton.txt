@@ -1,0 +1,2 @@
+spider creates database depending on followers of two target instagram users (main.py).
+find_handshake.py finds chain between two target users using graph.
